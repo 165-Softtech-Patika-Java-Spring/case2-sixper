@@ -1,5 +1,7 @@
 # Case2
 
+![](src/main/resources/img/123123.png)
+
 ## Adres Kayıt Sistemi:  
 Bir adreste bulunması gereken alanlar:  
 - Ülke 
